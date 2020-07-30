@@ -1,1 +1,7 @@
-body {background-color: darkcyan;}
+body {
+    /* background-color: darkcyan; */
+    background-image: url("../Images/double-bubble-outline.png");
+    font: 1em sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
